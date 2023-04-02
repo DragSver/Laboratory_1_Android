@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="product">Product</string>
+    <string name="title">Title</string>
+    <string name="subhead">Subhead</string>
+    <string name="header">Header</string>
+    <string name="account">Account</string>
+    <string name="more">More</string>
+    <string name="back">Back</string>
+    <string name="content">А это текст полный смысла и очень большой, наверное тут должно быть описание сказочного персонажа или ещё кого-то, вообщем смысл простой - длинный текст, а ещё он не доходит до конца экрана, это фича =)</string>
+    <string name="share">Поделиться</string>
+    <string name="like">Лайк</string>
+    <string name="this_title">Это заголовок</string>
+    <string name="id">Кнопка с текстом id</string>
+    <string name="content_description">media</string>
+    <string name="switch_text">Меняет цвет фона карточки выше при переключении</string>
+    <string name="backButton">back</string>
+</resources>
